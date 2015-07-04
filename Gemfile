@@ -46,3 +46,4 @@ end
 gem 'activeadmin', github: 'activeadmin'
 gem 'devise'
 gem 'annotate'
+gem 'rails-i18n'
